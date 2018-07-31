@@ -1,0 +1,158 @@
+Network Statistics
+
+
+Main Information about data
+
+ Documents                             992 
+ Sources (Journals, Books, etc.)       348 
+ Keywords Plus (ID)                    1565 
+ Author's Keywords (DE)                1406 
+ Period                                2001 - 2018 
+ Average citations per documents       11.09 
+
+ Authors                               3788 
+ Author Appearances                    5641 
+ Authors of single authored documents  40 
+ Authors of multi authored documents   3748 
+
+ Documents per Author                  0.262 
+ Authors per Document                  3.82 
+ Co-Authors per Documents              5.69 
+ Collaboration Index                   4.03 
+ 
+ Document types                     
+ B                                     36 
+ J                                     891 
+ S                                     65 
+ 
+
+Annual Scientific Production
+
+ Year    Articles
+    2001        2
+    2002        5
+    2003       21
+    2004       33
+    2005       32
+    2006       48
+    2007       54
+    2008       50
+    2009       56
+    2010       71
+    2011       79
+    2012       58
+    2013       76
+    2014       76
+    2015       94
+    2016       82
+    2017      111
+    2018       44
+
+Annual Percentage Growth Rate 19.94055 
+
+
+Most Productive Authors
+
+   Authors        Articles Authors        Articles Fractionalized
+1   ELLIOT AJ           43  ELLIOT AJ                        5.97
+2   SMITH GE            38  BUCKERIDGE DL                    5.19
+3   BUCKERIDGE DL       17  PAVLIN JA                        4.80
+4   KULLDORFF M         17  ZENG D                           4.75
+5   CALAVAS D           16  SMITH GE                         4.70
+6   ZENG D              16  CHEN HC                          4.08
+7   PLATT R             15  VIAL F                           3.94
+8   CHAUDET H           14  KULLDORFF M                      3.62
+9   CHEN HC             14  MANDL KD                         3.50
+10  KRAFFT T            14  MOSTASHARI F                     3.25
+
+
+Top manuscripts per citations
+
+                                                                                                                                                                             Paper         
+1  KULLDORFF M;HEFFERNAN R;HARTMAN J;ASSUNCAO R;MOSTASHARI F,(2005),PLOS MED.                                                                                                              
+2  FRUMKIN H;HESS J;LUBER G;MALILAY J;MCGEEHIN M,(2008),AM. J. PUBLIC HEALTH                                                                                                               
+3  CARNEIRO HA;MYLONAKIS E,(2009),CLIN. INFECT. DIS.                                                                                                                                       
+4  EYSENBACH G,(2009),J. MED. INTERNET RES.                                                                                                                                                
+5  HEFFERNAN R;MOSTASHARI F;DAS D;KULLDORFF M;WEISS D,(2004),EMERG. INFECT. DIS                                                                                                            
+6  MANDL KD;OVERHAGE JM;WAGNER MM;LOBER WB;SEBASTIANI P;MOSTASHARI F;PAVLIN JA;GESTELAND PH;TREADWELL T;KOSKI E;HUTWAGNER L;BUCKERIDGE DL;ALLER RD;GRANNIS S,(2004),J. AM. MED. INF. ASSOC.
+7  BRAVATA DM;MCDONALD KM;SMITH WM;RYDZAK C;SZETO H;BUCKERIDGE DL;HABERLAND C;OWENS DK,(2004),ANN. INTERN. MED.                                                                            
+8  OLSON DR;HEFFERNAN RT;PALADINI M;KONTY K;WEISS D;MOSTASHARI F,(2007),PLOS MED.                                                                                                          
+9  BUEHLER JW;BERKELMAN RL;HARTLEY DM;PETERS CJ,(2003),EMERG. INFECT. DIS                                                                                                                  
+10 KLEINMAN K;LAZARUS R;PLATT R,(2004),AM. J. EPIDEMIOL.                                                                                                                                   
+    TC TCperYear
+1  455     35.00
+2  229     22.90
+3  224     24.89
+4  215     23.89
+5  189     13.50
+6  180     12.86
+7  158     11.29
+8  121     11.00
+9  104      6.93
+10 102      7.29
+
+
+Most Productive Countries (of corresponding authors)
+
+     Country   Articles   Freq SCP MCP
+1  USA              400 0.4228 340  60
+2  ENGLAND           80 0.0846  60  20
+3  FRANCE            76 0.0803  58  18
+4  CANADA            74 0.0782  61  13
+5  AUSTRALIA         52 0.0550  40  12
+6  SWEDEN            24 0.0254  15   9
+7  NETHERLANDS       22 0.0233   3  19
+8  TAIWAN            17 0.0180  12   5
+9  GERMANY           16 0.0169  11   5
+10 SPAIN             16 0.0169  10   6
+
+
+SCP: Single Country Publications
+
+MCP: Multiple Country Publications
+
+
+Total Citations per Country
+
+     Country      Total Citations Average Article Citations
+1  USA                       6351                    15.877
+2  CANADA                     843                    11.392
+3  FRANCE                     699                     9.197
+4  ENGLAND                    670                     8.375
+5  AUSTRALIA                  573                    11.019
+6  SWEDEN                     176                     7.333
+7  NETHERLANDS                171                     7.773
+8  TAIWAN                     135                     7.941
+9  JAPAN                      113                    10.273
+10 BRAZIL                     106                     8.154
+
+
+Most Relevant Sources
+
+                                            Sources        Articles
+1  PLOS ONE                                                      56
+2  EPIDEMIOLOGY AND INFECTION                                    40
+3  BMC PUBLIC HEALTH                                             31
+4  EMERGING INFECTIOUS DISEASES                                  28
+5  PUBLIC HEALTH REPORTS                                         26
+6  PREVENTIVE VETERINARY MEDICINE                                22
+7  BMC MEDICAL INFORMATICS AND DECISION MAKING                   21
+8  JOURNAL OF THE AMERICAN MEDICAL INFORMATICS ASSOCIATION       18
+9  ANNALS OF EMERGENCY MEDICINE                                  16
+10 STATISTICS IN MEDICINE                                        16
+
+
+Most Relevant Keywords
+
+    Author Keywords (DE)      Articles     Keywords-Plus (ID)     Articles
+1  SYNDROMIC SURVEILLANCE          241 SYNDROMIC SURVEILLANCE          289
+2  SURVEILLANCE                     93 SYSTEM                          124
+3  INFLUENZA                        56 DISEASE                          86
+4  EPIDEMIOLOGY                     40 UNITED-STATES                    71
+5  PUBLIC HEALTH                    37 PUBLIC-HEALTH                    67
+6  BIOTERRORISM                     25 OUTBREAK                         66
+7  PUBLIC HEALTH SURVEILLANCE       25 ILLNESS                          63
+8  BIOSURVEILLANCE                  23 PUBLIC-HEALTH SURVEILLANCE       61
+9  OUTBREAK                         18 SURVEILLANCE                     54
+10 POPULATION SURVEILLANCE          18 OUTBREAK DETECTION               51
+
